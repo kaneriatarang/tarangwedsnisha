@@ -1035,7 +1035,7 @@ textarea:focus {
     width: 63px !important;
     height: 47px;
     animation-duration: 2s;
-    animation-delay: 5s;
+    animation-delay: 3s;
     animation-iteration-count: infinite;
     animation-name: pulse;
 }
